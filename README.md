@@ -37,4 +37,4 @@
 
 ---
 
-> “Code like there's no tomorrow, debug like you're being watched.” 😄
+> “Code like there's no tomorrow, debug like you're being watched.”
